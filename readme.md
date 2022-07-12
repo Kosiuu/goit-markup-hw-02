@@ -1,1 +1,1 @@
-https://kosiuu.github.io/goit-markup-hw-01/
+https://kosiuu.github.io/goit-markup-hw-02/
